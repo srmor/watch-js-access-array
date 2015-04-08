@@ -1,0 +1,8 @@
+{
+  "name": "dynamic-algorithms",
+  "version": "1.0.0",
+  "dependencies": {
+    "connect": "^3.3.5",
+    "serve-static": "^1.9.2"
+  }
+}
